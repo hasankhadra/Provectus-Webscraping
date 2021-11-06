@@ -63,17 +63,6 @@ class Scrape:
         """
         Extracts all the info about the GPUs in the given page number
         :param page_number: the page number in the website
-        :return: a dictionary containing the info the GPUs in the provided page.
-        The return dictionary is of the format:
-        {
-            'url': url of the product (string)
-            'gpu_name': the name of the GPU (string),
-            'store_name': the name of the store (string),
-            'fetch_ts': unix timestamp in seconds (float),
-            'gpu_price': the price of the GPU (string),
-            'in_stock': whether the product is in stock or not (boolean),
-            'gpu_model': The model of the GPU (string)
-        }
         """
 
         # connect to website
@@ -117,18 +106,13 @@ class Scrape:
         for page in range(1, self.get_num_of_pages() + 1):
             self.extract_page(page_number=page)
 
-        self.to_csv_instance.end_session()
         print(f"The information about all GPUs available on website {BASE_URL} "
               f"are saved in output.csv in the same directory of scrape.py")
 
 
 if __name__ == "__main__":
-    page_url = "https://www.upwork.com/"
-    page = requests.get(page_url, headers=HEADERS)
-    print(page.text)
-    soup = BeautifulSoup(page.text, "html.parser")
 
-    # scrape_instance = Scrape(HEADERS, BASE_URL)
-    #
-    # scrape_instance.extract_pages()
+    scrape_instance = Scrape(HEADERS, BASE_URL)
+
+    scrape_instance.extract_pages()
 
