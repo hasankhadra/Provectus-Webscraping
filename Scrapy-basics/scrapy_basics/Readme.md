@@ -1,4 +1,4 @@
-# Task 2 - Scraping - Scrapy and XPath
+# Task 2 - Scraping - Scrapy with XPath
 
 ## Table of contents
 1. [ Description ](#desc)
