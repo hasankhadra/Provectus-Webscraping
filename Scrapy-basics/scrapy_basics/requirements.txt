@@ -1,0 +1,7 @@
+charset-normalizer==2.0.7
+hyperlink==21.0.0
+itemadapter==0.4.0
+itemloaders==1.0.4
+lxml==4.6.4
+requests==2.26.0
+Scrapy==2.5.1
