@@ -1,0 +1,104 @@
+fetch_ts,gpu_model,gpu_name,gpu_price,in_stock,store_name,url
+1636711851.4921322,GeForce RTX 3060,NVIDIA GeForce RTX3060 MSI 12Gb (RTX 3060 GAMING X 12G) ,77 680,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar381513.htm
+1636711851.4921322,GeForce RTX 3060 Ti,NVIDIA GeForce RTX3060 Ti Palit Dual 8Gb LHR (NE6306T019P2-190AD V1),81 060,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar395463.htm
+1636711851.4921322,GeForce RTX 3060,NVIDIA GeForce RTX3060 Gigabyte 12Gb LHR (GV-N3060AORUS E-12GD 2.0),83 220,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar390785.htm
+1636711851.4921322,GeForce RTX 3060,NVIDIA GeForce RTX3060 EVGA XC Gaming 12Gb (12G-P5-3657-KR),83 570,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar390867.htm
+1636711851.4921322,GeForce RTX 3060,NVIDIA GeForce RTX3060 Gigabyte 12Gb (GV-N3060GAMING OC-12GD) ,82 450,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar381507.htm
+1636711851.4921322,GeForce RTX 3060,NVIDIA GeForce RTX3060 Gigabyte 12Gb LHR (GV-N3060EAGLE-12GD 2.0),77 830,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar392961.htm
+1636711851.4921322,GeForce RTX 3060,NVIDIA GeForce RTX3060 Gigabyte 12Gb LHR (GV-N3060VISION OC-12GD 2.0),84 760,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar392356.htm
+1636711851.4921322,GeForce RTX 3060,NVIDIA GeForce RTX3060 Colorful iGame 12Gb LHR (RTX 3060 Ultra W OC 12G L-V),79 370,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar396470.htm
+1636711851.4921322,GeForce RTX 3060,NVIDIA GeForce RTX3060 Colorful iGame 12Gb LHR (RTX 3060 Advanced OC 12G L-V),79 200,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar412534.htm
+1636711851.4921322,Radeon Pro WX 2100,AMD Radeon Pro WX 2100 Dell 2Gb (490-BDZU),9 880,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar395049.htm
+1636711851.4921322,GeForce RTX 3060,NVIDIA GeForce RTX3060 ASUS 12Gb LHR (PH-RTX3060-12G-V2),76 290,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar395144.htm
+1636711851.4921322,GeForce GTX 1650,NVIDIA GeForce GTX1650 Palit GP OC 4Gb (NE61650S1BG1-1175A) OEM,35 170,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar382745.htm
+1636711851.4921322,GeForce GTX 1050 Ti,NVIDIA GeForce GTX1050 Ti Palit StormX 4Gb (NE5105T018G1),24 480,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar236255.htm
+1636711851.4921322,GeForce GT 730,NVIDIA GeForce GT730 Zotac Zone 4Gb (ZT-71115-20L),7 750,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar166329.htm
+1636711851.4921322,GeForce GT 730,NVIDIA GeForce GT730 Palit 2Gb (NEAT7300HD46-2080H),6 560,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar393588.htm
+1636711851.5848565,Quadro RTX 5000,NVIDIA Quadro RTX5000 PNY 16Gb (VCQRTX5000BLK-1) OEM,177 520,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar349448.htm
+1636711851.5848565,Quadro RTX 6000,NVIDIA Quadro RTX6000 24Gb (900-2G150-0040-000) OEM,438 980,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar351308.htm
+1636711851.4921322,GeForce GTX 1650,NVIDIA GeForce GTX1650 Palit StormX 4Gb (NE51650006G1-1170F) OEM,31 680,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar338006.htm
+1636711851.5848565,Quadro RTX 5000,NVIDIA Quadro RTX5000 PNY 16Gb (X/VCQRTX5000-PB),197 170,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar308716.htm
+1636711851.5848565,Quadro RTX 5000,NVIDIA Quadro RTX5000 PNY 16Gb (VCQRTX5000-SB) OEM,200 890,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar401828.htm
+1636711851.5848565,Quadro RTX 5000,NVIDIA Quadro RTX5000 PNY 16Gb (VCQRTX5000-BSP) OEM,177 150,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar312787.htm
+1636711851.5848565,Quadro RTX 4000,NVIDIA Quadro RTX4000 PNY 8Gb (VCQRTX4000BLK-1) OEM,87 800,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar310007.htm
+1636711851.5848565,Quadro RTX 4000,NVIDIA Quadro RTX4000 PNY 8Gb (VCQRTX4000-PB),91 340,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar311022.htm
+1636711851.5848565,Quadro RTX 4000,NVIDIA Quadro RTX4000 PNY 8Gb (VCQRTX4000-SB) OEM,87 800,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar391196.htm
+1636711851.5848565,Quadro RTX 4000,NVIDIA Quadro RTX4000 PNY 8Gb (VCQRTX4000-BSP),90 770,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar312546.htm
+1636711851.5848565,Quadro RTX A6000,NVIDIA Quadro RTX A6000 HP 48Gb (2S6U3AA),424 100,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar410859.htm
+1636711851.5848565,Quadro RTX A5000,NVIDIA Quadro RTX A5000 PNY 24Gb (VCNRTXA5000-PB),264 130,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar404287.htm
+1636711851.5848565,Quadro RTX A6000,NVIDIA Quadro RTX A6000 PNY 48Gb (VCNRTXA6000-PB),501 530,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar379412.htm
+1636711851.5848565,Quadro RTX A6000,NVIDIA Quadro RTX A6000 PNY 48Gb (VCNRTXA6000-SB) OEM,513 680,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar393196.htm
+1636711851.5848565,Quadro RTX 4000,NVIDIA Quadro RTX4000 8Gb (900-5G160-2550-000) OEM,98 210,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar409971.htm
+1636711851.5848565,Quadro P400,NVIDIA Quadro P400 PNY 2Gb (VCQP400V2-PB) RTL,10 920,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar349004.htm
+1636711851.5848565,Quadro P400,NVIDIA Quadro P400 PNY 2Gb (VCQP400V2BLK-1) OEM,10 820,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar349777.htm
+1636711851.5848565,Quadro P400,NVIDIA Quadro P400 PNY 2Gb (VCQP400DVIV2BLK-1) OEM,10 280,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar351610.htm
+1636711851.5848565,Quadro P400,NVIDIA Quadro P400 Dell 2Gb (490-BDTB) OEM,10 190,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar289721.htm
+1636711851.5848565,Quadro GP100,NVIDIA Quadro GP100 nVidia 16Gb RTL,572 910,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar291924.htm
+1636711851.5848565,Quadro P2000,NVIDIA Quadro P2000 PNY 5Gb (VCQP2000-PB),46 350,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar246560.htm
+1636711851.5848565,Quadro M6000,NVIDIA Quadro M6000 Dell 24Gb (490-BDNO),367 840,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar323348.htm
+1636711851.5848565,GeForce RTX 3090,NVIDIA GeForce RTX3090 Gigabyte 24Gb (GV-N3090TURBO-24GD),300 880,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar369654.htm
+1636711851.5848565,GeForce RTX 3090,NVIDIA GeForce RTX3090 ASUS 24Gb (TURBO-RTX3090-24G) OEM,308 940,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar374862.htm
+1636711851.5848565,GeForce RTX 3080,NVIDIA GeForce RTX3080 PNY XLR8 GAMING REVEL EPIC-X LHR 10Gb (VCG308010LTFXP-BLK) OEM,165 340,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar406896.htm
+1636711851.5848565,GeForce RTX 3080,NVIDIA GeForce RTX3080 MSI 10Gb (RTX 3080 SEA HAWK X 10G LHR),173 880,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar410482.htm
+1636711851.5848565,GeForce RTX 3080,NVIDIA GeForce RTX3080 Gigabyte 10Gb LHR (GV-N3080GAMING OC-10GD 2.0) ,157 200,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar394532.htm
+1636711851.5848565,GeForce RTX 3080,NVIDIA GeForce RTX3080 MSI 10Gb (RTX 3080 GAMING Z TRIO 10G LHR) ,163 510,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar395435.htm
+1636711851.5848565,GeForce RTX 3080,NVIDIA GeForce RTX3080 ASUS 10Gb LHR (TUF-RTX3080-O10G-V2-GAMING),170 680,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar399590.htm
+1636711851.5848565,GeForce RTX 3080,NVIDIA GeForce RTX3080 Gigabyte 10Gb LHR (GV-N3080AORUS X-10GD 2.0),173 380,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar395140.htm
+1636711851.5848565,GeForce RTX 3070 Ti,NVIDIA GeForce RTX3070 Ti MSI 8Gb (RTX 3070 TI GAMING X TRIO 8G) ,131 000,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar392566.htm
+1636711851.5848565,GeForce RTX 3080,NVIDIA GeForce RTX3080 ASUS 10Gb LHR (ROG-STRIX-RTX3080-O10G-V2-GAMING),175 690,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar401944.htm
+1636711851.5848565,GeForce RTX 3080,NVIDIA GeForce RTX3080 ASUS 10Gb LHR (ROG-STRIX-RTX3080-O10G-WHITE-V2) ,183 010,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar396590.htm
+1636711851.5848565,GeForce RTX 3070 Ti,NVIDIA GeForce RTX3070 Ti Palit GameRock 8Gb (NED307T019P2-1047G),115 590,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar391414.htm
+1636711851.5848565,GeForce RTX 3070,NVIDIA GeForce RTX3070 Palit GamingPro 8Gb LHR (NE63070019P2-1041A V1) ,105 630,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar395462.htm
+1636711851.5848565,GeForce RTX 3070,NVIDIA GeForce RTX3070 Gigabyte 8Gb LHR (GV-N3070VISION OC-8GD 2.0),125 720,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar400310.htm
+1636711851.5848565,GeForce RTX 3070,NVIDIA GeForce RTX3070 ASUS 8Gb LHR (DUAL-RTX3070-8G-V2),111 730,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar404043.htm
+1636711851.5848565,GeForce RTX 3070,NVIDIA GeForce RTX3070 Gigabyte 8Gb LHR (GV-N3070GAMING OC-8GD 2.0),110 810,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar394203.htm
+1636711851.5848565,GeForce RTX 3070,NVIDIA GeForce RTX3070 Gigabyte 8Gb LHR (GV-N3070AORUS M-8GD 2.0),114 880,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar400309.htm
+1636711851.5848565,GeForce RTX 3060,NVIDIA GeForce RTX3060 Zotac Twin Edge OC 12Gb (ZT-A30600H-10M),83 220,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar382113.htm
+1636711851.5848565,GeForce RTX 3070,NVIDIA GeForce RTX3070 ASUS 8Gb LHR (TUF-RTX3070-O8G-V2-GAMING) ,114 820,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar395530.htm
+1636711851.555898,,Профессиональная видеокарта AMD Radeon Pro W6800 Dell 32Gb (490-BHCL) OEM,217 360,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar411526.htm
+1636711851.555898,,Видеокарта NVIDIA GeForce GTX1660 Ti PNY XLR8 Gaming 6Gb (VCG1660T6DFPPB) RTL,58 180,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar399752.htm
+1636711851.555898,,Видеокарта NVIDIA GeForce RTX3060 Colorful 12Gb (RTX 3060 NB DUO 12G L-V) RTL,80 910,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar413747.htm
+1636711851.555898,Quadro T600,NVIDIA Quadro T600 Dell 4Gb (490-BGXX) OEM,15 170,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar411751.htm
+1636711851.555898,Quadro T600,NVIDIA Quadro T600 PNY 4Gb (VCNT600-SB)  OEM,16 820,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar395047.htm
+1636711851.555898,Quadro T600,NVIDIA Quadro T600 PNY 4Gb (VCNT600-PB) ,19 010,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar403061.htm
+1636711851.555898,Quadro T400,NVIDIA Quadro T400 PNY 2Gb (VCNT400BLK-1) OEM,11 580,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar403067.htm
+1636711851.555898,Quadro T400,NVIDIA Quadro T400 PNY 2Gb (VCNT400-SB) OEM,10 050,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar403064.htm
+1636711851.555898,Quadro T1000,NVIDIA Quadro T1000 PNY 4Gb (VCNT1000-SB) OEM,32 890,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar392569.htm
+1636711851.555898,Quadro T1000,NVIDIA Quadro T1000 PNY 4Gb (VCNT1000BLK-1/VCQT1000ATX) OEM,36 630,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar392568.htm
+1636711851.555898,Quadro T400,NVIDIA Quadro T400 PNY 2Gb (VCNT400-PB),11 500,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar403065.htm
+1636711851.555898,Quadro T1000,NVIDIA Quadro T1000 PNY 4Gb (VCNT1000-PB) ,33 640,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar408493.htm
+1636711851.555898,Quadro T400,NVIDIA Quadro T400 HP 2Gb (340K8AA) OEM,9 750,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar410856.htm
+1636711851.555898,Quadro T400,NVIDIA Quadro T400 PNY 2Gb (VCNT400-BLK) OEM,10 140,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar403066.htm
+1636711851.555898,Quadro T1000,NVIDIA Quadro T1000 PNY 4Gb (VCNT1000-BLK/VCNT1000ATX/VCQT1000ATX) OEM,35 140,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar392567.htm
+1636711851.555898,Quadro T1000,NVIDIA Quadro T1000 HP 4Gb (20X22AA),30 250,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar410454.htm
+1636711851.555898,Quadro RTX 8000,NVIDIA Quadro RTX8000 PNY 48Gb (VCQRTX8000-BSP) OEM,535 710,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar352234.htm
+1636711851.555898,Quadro RTX 6000,NVIDIA Quadro RTX6000 PNY 24Gb (VCQRTX6000-BSP),347 840,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar310006.htm
+1636711851.555898,Quadro RTX 6000,NVIDIA Quadro RTX6000 PNY 24Gb (VCQRTX6000-SB) OEM,306 620,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar395927.htm
+1636711851.555898,Quadro RTX 8000,NVIDIA Quadro RTX8000 PNY 48Gb (VCQRTX8000-PB),537 720,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar312540.htm
+1636711851.555898,Quadro RTX 6000,NVIDIA Quadro RTX6000 PNY 24Gb (VCQRTX6000-BLK) OEM,364 580,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar410012.htm
+1636711851.555898,Quadro RTX 6000,NVIDIA Quadro RTX6000 Dell 24Gb (490-BFCZ),352 370,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar316669.htm
+1636711851.555898,Quadro RTX 8000,NVIDIA Quadro RTX8000 48Gb (900-2G150-0050-000) ,505 950,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar358070.htm
+1636711851.4921322,GeForce GT 730,NVIDIA GeForce GT730 Palit 2Gb,6 180,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar161706.htm
+1636711851.4921322,GeForce GT 730,NVIDIA GeForce GT730 MSI 4Gb (N730K-4GD3/OCV1),8 200,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar393587.htm
+1636711851.4921322,GeForce GT 730,NVIDIA GeForce GT730 MSI 2Gb (N730K-2GD3H/LP),6 910,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar211577.htm
+1636711851.4921322,GeForce GT 730,NVIDIA GeForce GT730 MSI 2Gb (N730K-2GD3/OCV5),6 780,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar398343.htm
+1636711851.4921322,GeForce GT 730,NVIDIA GeForce GT730 MSI 2Gb (N730-2GD3V2),7 630,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar189800.htm
+1636711851.4921322,GeForce GT 730,NVIDIA GeForce GT730 Gigabyte 2Gb (GV-N730D3-2GI),7 750,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar164531.htm
+1636711851.4921322,GeForce GT 730,NVIDIA GeForce GT730 Gigabyte 2Gb (GV-N730D3-2GI V3),6 970,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar313524.htm
+1636711851.4921322,GeForce GT 730,NVIDIA GeForce GT730 Gigabyte 2Gb (GV-N730D5-2GL),7 140,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar263889.htm
+1636711851.4921322,GeForce GT 730,NVIDIA GeForce GT730 ASUS 2Gb (GT730-SL-2GD5-BRK),7 330,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar227927.htm
+1636711851.4921322,GeForce GT 730,NVIDIA GeForce GT730 Colorful 2Gb (GT730K 2GD3-V),6 010,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar392762.htm
+1636711851.4921322,GeForce GT 730,NVIDIA GeForce GT730 ASUS 2Gb (GT730-4H-SL-2GD5),8 100,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar406435.htm
+1636711851.4921322,GeForce GT 1030,NVIDIA GeForce GT1030 Palit 2Gb (NEC103000646-1082F),7 660,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar282282.htm
+1636711851.4921322,GeForce GT 1030,NVIDIA GeForce GT1030 Gigabyte 2Gb (GV-N1030D5-2GL),9 220,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar252691.htm
+1636711851.4921322,GeForce GT 1030,NVIDIA GeForce GT1030 Gigabyte 2Gb (GV-N1030D4-2GL),8 800,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar281748.htm
+1636711851.4921322,GeForce GT 730,NVIDIA GeForce GT730  Zotac Zone 2Gb (ZT-71113-20L),6 970,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar165448.htm
+1636711851.4921322,GeForce GT 1030,NVIDIA GeForce GT1030 ASUS 2Gb (GT1030-SL-2GD4-BRK),9 070,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar411956.htm
+1636711851.4921322,GeForce GT 1030,NVIDIA GeForce GT1030 ASUS 2Gb (GT1030-SL-2G-BRK),8 490,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar253668.htm
+1636711851.4921322,GeForce GT 1030,NVIDIA GeForce GT1030 ASUS 2Gb (GT1030-2G-BRK),9 340,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar274062.htm
+1636711851.4921322,Radeon RX 6900 XT,AMD Radeon RX 6900 XT ASUS 16Gb (TUF-RX6900XT-O16G-GAMING),172 530,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar378094.htm
+1636711851.4921322,Radeon RX 6900 XT,AMD Radeon RX 6900 XT Gigabyte 16Gb (GV-R69XTAORUSX WB-16GD),167 210,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar392359.htm
+1636711851.4921322,Radeon RX 6900 XT,AMD Radeon RX 6900 XT MSI 16Gb (RX 6900 XT GAMING Z TRIO 16G),178 610,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar393735.htm
+1636711851.4921322,Radeon RX 6900 XT,AMD Radeon RX 6900 XT Sapphire Toxic Extreme Edition 16Gb (11308-08-20G),193 060,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar389882.htm
+1636711851.4921322,Radeon RX 6900 XT,AMD Radeon RX 6900 XT ASRock Formula OC 16Gb (RX6900XT OCF 16G),175 690,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar393590.htm
+1636711851.4921322,Radeon RX 6900 XT,AMD Radeon RX 6900 XT ASUS 16Gb (TUF-RX6900XT-T16G-GAMING),176 330,True,Сеть компьютерных магазинов REGARD,https://www.regard.ru/catalog/tovar411877.htm
