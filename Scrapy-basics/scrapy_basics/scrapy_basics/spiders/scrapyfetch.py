@@ -133,12 +133,18 @@ class GPUInfoFetch(scrapy.Spider):
                 in_stock_text = in_stock.split(" ")
                 in_stock = False
                 for element in in_stock_text:
+
+                    # Here we are searching for the number of pieces available in stock
                     try:
+                        # we only proceed to the next step when we find the number
+                        # of items available of this product
                         if int(element) > 0:
                             in_stock = True
                             break
-                    except:
+                    except ValueError:
                         continue
+                    except Exception as e:
+                        raise e
         else:
             in_stock = in_stock == "в наличии"
 

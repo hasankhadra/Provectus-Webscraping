@@ -42,4 +42,3 @@ class ToCsv:
                 rows_to_insert.append(list(data[key].values()))
 
             writer.writerows(rows_to_insert)
-
