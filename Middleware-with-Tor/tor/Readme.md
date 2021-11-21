@@ -17,7 +17,7 @@ For each
 a proxy for each outgoing request through Tor network. Also, if the response was unsuccessful, the middleware changes Tor identity and resends the request.
 
 After retrieving the data we 
-store it in `output.csv`. The csv file has the following columns:
+store it in [`output.csv`](https://github.com/hasankhadra/Provectus-Webscraping/blob/dev_part3/Middleware-with-Tor/tor/tor/spiders/output.csv). The csv file has the following columns:
 ```
 store_name, gpu_model, gpu_name, fetch_ts, gpu_price, in_stock, url
 ```
@@ -26,8 +26,8 @@ store_name, gpu_model, gpu_name, fetch_ts, gpu_price, in_stock, url
 ### 2. Structure of the code
 The code is structured using `Scrapy` library, and the logic of the main code can be found in 
 [`scrapyfetch-tor.py`](https://github.com/hasankhadra/Provectus-Webscraping/blob/dev_part3/Middleware-with-Tor/tor/tor/spiders/scrapyfetch-tor.py). 
-In `middlewares.py`, we implement our custom `downloader_middleware` to the purpose explained above. In `items.py` we define the attributes of a gpu 
-product (which are the same as the columns of `output.csv`). We also set some settings in `settings.py` 
+In [`middlewares.py`](https://github.com/hasankhadra/Provectus-Webscraping/blob/dev_part3/Middleware-with-Tor/tor/tor/middlewares.py), we implement our custom `downloader_middleware` to the purpose explained above. In [`items.py`](https://github.com/hasankhadra/Provectus-Webscraping/blob/dev_part3/Middleware-with-Tor/tor/tor/items.py) we define the attributes of a gpu 
+product (which are the same as the columns of `output.csv`). We also set some settings in [`settings.py`](https://github.com/hasankhadra/Provectus-Webscraping/blob/dev_part3/Middleware-with-Tor/tor/tor/settings.py).
 to specify the `downloader_middleware` we will use and some describe extra settings.
 
 <a name="install"></a>
