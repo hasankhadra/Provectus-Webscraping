@@ -32,7 +32,9 @@ class ProxyMiddleware(HttpProxyMiddleware):
     """
 
     # Number of requests sent during the current tor identity
-    num_sent_requests = 0
+    def __init__(self, *args, **kwargs):
+        super(ProxyMiddleware, self).__init__()
+        self.num_sent_requests = 0
 
     def process_response(self, request, response, spider):
         # get a new identity if the response wasn't successful
