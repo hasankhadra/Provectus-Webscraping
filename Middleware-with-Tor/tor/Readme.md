@@ -32,6 +32,13 @@ to specify the `downloader_middleware` we will use and some describe extra setti
 
 <a name="install"></a>
 ### 3. Installation and Running
+In order to be able to use Tor, you need to install the following libraries:
+```
+sudo apt-get update
+sudo apt-get install tor tor-geoipdb privoxy
+```
+You need now to configure Tor and Provixy for the code to run. You can follow this [tutorial](https://www.khalidalnajjar.com/stealthy-crawling-using-scrapy-tor-and-privoxy/#:~:text=Installing%20and%20Configuring%20Tor%20with%20Privoxy).
+
 Clone this repo to your local machine. `cd` to `Provectus-Webscraping/Middleware-with-Tor/tor` and install all the requirements with the command:
 ```
 pip install -r requirements.txt
