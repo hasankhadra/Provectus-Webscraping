@@ -1,4 +1,3 @@
-import sys
 import os
 from dotenv import load_dotenv
 from stem import Signal
@@ -6,19 +5,12 @@ from stem.control import Controller
 from scrapy.downloadermiddlewares.httpproxy import HttpProxyMiddleware
 from stem.util.log import get_logger
 
-sys.path.append(os.path.abspath(".."))
-
-from settings import REQUESTS_PER_SAME_TOR_IDENTITY
-
 # load environment variables
 load_dotenv()
 
 # stop the logging in the terminal to not make it messy
 logger = get_logger()
 logger.propagate = False
-
-# Number of requests sent during the current tor identity
-NUM_SENT_REQUESTS = 0
 
 
 def new_tor_identity():
@@ -38,8 +30,11 @@ class ProxyMiddleware(HttpProxyMiddleware):
     It's responsible for connecting to Tor, adding a proxy for each request and changing
     Tor identity each REQUESTS_PER_SAME_TOR_IDENTITY requests.
     """
-    def process_response(self, request, response, spider):
 
+    # Number of requests sent during the current tor identity
+    num_sent_requests = 0
+
+    def process_response(self, request, response, spider):
         # get a new identity if the response wasn't successful
         if response.status != 200:
             new_tor_identity()
@@ -48,14 +43,13 @@ class ProxyMiddleware(HttpProxyMiddleware):
         return response
 
     def process_request(self, request, spider):
-        global NUM_SENT_REQUESTS
 
         # get a new identity
-        if NUM_SENT_REQUESTS >= REQUESTS_PER_SAME_TOR_IDENTITY:
-            NUM_SENT_REQUESTS = 0
+        if self.num_sent_requests >= spider.settings['REQUESTS_PER_SAME_TOR_IDENTITY']:
+            self.num_sent_requests = 0
             new_tor_identity()
 
-        NUM_SENT_REQUESTS += 1
+        self.num_sent_requests += 1
 
         # add a proxy for the response
         request.meta['proxy'] = 'http://127.0.0.1:8118'
